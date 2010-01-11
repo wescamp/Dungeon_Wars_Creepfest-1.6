@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-01-11 22:46+0100\n"
+"PO-Revision-Date: 2009-08-12 11:31+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [multiplayer]: id=2p_Dungeon_Wars_Creepfest
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:5
+msgid "2p - DW Creepfest"
+msgstr ""
+
+#. [multiplayer]: id=2p_Dungeon_Wars_Creepfest
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:7
+msgid ""
+"Medium 1v1 map set in a decaying land. Recruit optional creeps to aid your "
+"cause!"
+msgstr ""
+
+#. [side]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:19
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:19
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:46
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:19
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:46
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:19
+msgid "teamname^West"
+msgstr ""
+
+#. [side]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:28
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:28
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:37
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:28
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:37
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:28
+msgid "teamname^East"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:50
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:68
+msgid "Giant Mudcrawler"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:54
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:72
+msgid "Wolf"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:58
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:76
+msgid "Giant Scorpion"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:62
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:80
+msgid "Ogre"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:66
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:84
+msgid "Troll Shaman"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:70
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:88
+msgid "Chocobone"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:74
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:92
+msgid "Giant Spider"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:78
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:96
+msgid "Yeti"
+msgstr ""
+
+#. [event]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:99
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:101
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:103
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:105
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:117
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:119
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:121
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:123
+msgid ""
+"Monster Shop\n"
+" Leaders only!"
+msgstr ""
+
+#. [event]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:106
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:107
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:108
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:109
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:110
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:111
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:124
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:125
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:126
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:127
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:128
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:129
+msgid "Bought monsters start here!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:114
+msgid "Defeat enemy player's leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:118
+msgid "Death of your leader"
+msgstr ""
+
+#. [objectives]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:127
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:145
+msgid ""
+" \n"
+"~Enter shops with leaders to buy optional monsters.\n"
+" \n"
+"~Monsters can be neutral for half the price.\n"
+" \n"
+"~Step on runes to open/close walls.\n"
+" "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:152
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:170
+msgid ""
+"DUNGEON WARS CREEPFEST\n"
+"\t\n"
+"Created by : Kvinkunx\n"
+"\t\n"
+"Main testing and suggestions : Rigor\n"
+"( thanks, man! :) )\n"
+"\t\n"
+"THIS IS A STANDARD BATTLE, RECRUIT YOUR REGULAR ARMY FIRST!\n"
+"\t\n"
+"Enter a shop with your LEADER to recruit monsters in northern and southern "
+"dungeon. The farther from your home castle you want them to appear, the more "
+"you have to pay.\n"
+"You can pay full price for ownership of the monster or you can just spawn a "
+"neutral monster at a discount.\n"
+"\t\t\n"
+"Step on magical runes with ANY UNIT to open/close walls. Only then the "
+"bought monsters can leave the dungeon and join the battle!\n"
+"\t\n"
+"Be careful, if a unit stands on a wall hex and someone closes the wall "
+"again, the unit is killed.\n"
+" \n"
+"Entering a shop or stepping on a rune won't end the movement of a unit!\n"
+msgstr ""
+
+#. [then]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:294
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:312
+msgid "Open Sesame!"
+msgstr ""
+
+#. [else]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:307
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:325
+msgid "Sesame, close!"
+msgstr ""
+
+#. [set_variable]
+#. [event]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:424
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:719
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:442
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:747
+msgid "TOP CENTRAL"
+msgstr ""
+
+#. [command]
+#. [event]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:426
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:840
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:444
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:868
+msgid "YOU"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:462
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:490
+msgid "Marisha's Monster Emporium"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:472
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:500
+msgid ""
+"<225,225,25>Gold: $gold  Total price: $total_price\n"
+" \n"
+"You are buying this monster:\n"
+"<225,0,0>$chosen_name\n"
+" \n"
+"It will appear at this trapdoor:\n"
+"<225,0,225>$trapdoor_name\n"
+" \n"
+"The controller of the monster will be:\n"
+"<0,225,225>$owner_name"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:476
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:504
+msgid "Don't buy anything."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:483
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:511
+msgid "Choose monster type!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:499
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:527
+msgid "Monsters"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:500
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:670
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:815
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:528
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:698
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:843
+msgid "<225,225,25>Gold: $gold|"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:505
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:533
+msgid ""
+"<225,0,0>$name_mud : 12gp\n"
+"Hitpoints:36  Moves:4\n"
+"7 - 2 melee (impact)  5 - 3 ranged (impact)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:524
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:552
+msgid ""
+"<225,0,0>$name_wolf : 13gp\n"
+"Hitpoints:32  Moves:8\n"
+"5 - 3 melee (blade)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:540
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:568
+msgid ""
+"<225,0,0>$name_scorpy : 17gp\n"
+"Hitpoints:40  Moves:8\n"
+"9 - 1 melee (pierce) (poison)  4 - 4 melee (impact)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:559
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:587
+msgid ""
+"<225,0,0>$name_ogre : 33gp\n"
+"Hitpoints:68  Moves:5\n"
+"10 - 3 melee (blade)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:575
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:603
+msgid ""
+"<225,0,0>$name_shaman : 32gp\n"
+"Hitpoints:50  Moves:5  regenerates\n"
+"7 - 2 melee (impact)  7 - 3 ranged (fire) (magical)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:594
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:622
+msgid ""
+"<225,0,0>$name_choco : 29gp\n"
+"Hitpoints:45  Moves:9  submerge\n"
+"9 - 2 melee (pierce) (charge)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:610
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:638
+msgid ""
+"<225,0,0>$name_spidey : 60gp\n"
+"Hitpoints:54  Moves:6\n"
+"18 - 2 melee (blade) (poison)  8 - 3 ranged (impact) (slows)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:629
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:657
+msgid ""
+"<225,0,0>$name_yeti : 100gp\n"
+"Hitpoints:142  Moves:5\n"
+"32 - 2 melee (impact)"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:654
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:682
+msgid "Where should the monster appear?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:669
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:697
+msgid "Spawning Point"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:674
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:702
+msgid ""
+"<225,0,225>Top left trapdoor\n"
+"Price will change to $left_trapdoors|% of the monster cost."
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:681
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:709
+msgid "TOP LEFT"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:693
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:721
+msgid ""
+"<225,0,225>Bottom left trapdoor\n"
+"Price will change to $left_trapdoors|% of the monster cost."
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:700
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:728
+msgid "BOTTOM LEFT"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:712
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:740
+msgid ""
+"<225,0,225>Top central trapdoor\n"
+"Price will change to $central_trapdoors|% of the monster cost."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:731
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:759
+msgid ""
+"<225,0,225>Bottom central trapdoor\n"
+"Price will change to $central_trapdoors|% of the monster cost."
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:738
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:766
+msgid "BOTTOM CENTRAL"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:750
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:778
+msgid ""
+"<225,0,225>Top right trapdoor\n"
+"Price will change to $right_trapdoors|% of the monster cost."
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:757
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:785
+msgid "TOP RIGHT"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:769
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:797
+msgid ""
+"<225,0,225>Bottom right trapdoor\n"
+"Price will change to $right_trapdoors|% of the monster cost."
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:776
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:804
+msgid "BOTTOM RIGHT"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:798
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:826
+msgid "Who will control this monster?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:814
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:842
+msgid "Ownership"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:819
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:847
+msgid ""
+"<225,225,25>Pay only half the price!\n"
+"<0,225,225>It may attack anyone at will though, even you!!"
+msgstr ""
+
+#. [set_variable]
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:824
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:852
+msgid "AI! It may attack anyone, even you!!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:837
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:865
+msgid ""
+"<225,225,25>Full price!\n"
+"<0,225,225>Full control of the monster you buy."
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:862
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:890
+msgid "Buy this monster!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:885
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:913
+msgid "Marisha"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:887
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:915
+msgid "You don't have the required money! Begone!!"
+msgstr ""
+
+#. [multiplayer]: id=2p_Dungeon_Wars_No_Creeps
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:5
+msgid "2p - DW No Creeps"
+msgstr ""
+
+#. [multiplayer]: id=2p_Dungeon_Wars_No_Creeps
+#: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:7
+msgid "Medium 1v1 map set in a decaying land."
+msgstr ""
+
+#. [multiplayer]: id=4p_Dungeon_Wars_Creepfest
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:5
+msgid "4p - DW Creepfest"
+msgstr ""
+
+#. [multiplayer]: id=4p_Dungeon_Wars_Creepfest
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:7
+msgid ""
+"Medium 2v2 map set in a decaying land. Recruit optional creeps to aid your "
+"cause!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:132
+msgid "Defeat enemy players' leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:136
+msgid "Death of your leaders"
+msgstr ""
+
+#. [multiplayer]: id=4p_Dungeon_Wars_No_Creeps
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:5
+msgid "4p - DW No Creeps"
+msgstr ""
+
+#. [multiplayer]: id=4p_Dungeon_Wars_No_Creeps
+#: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:7
+msgid "Medium 2v2 map set in a decaying land."
+msgstr ""
